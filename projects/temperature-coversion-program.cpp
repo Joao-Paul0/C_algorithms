@@ -28,6 +28,5 @@ int main() {
 	}else{
 		printf("\n %c is not a valid unit of measurement", unit);	
 	}
-	
 	return 0;
 }
